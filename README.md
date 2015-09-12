@@ -114,22 +114,22 @@ The four plots that you will need to construct are shown below.
 
 ## Result
 
-### Plot 1
+### Plot 1 (plot1.R)
 
 
 ![plot of chunk plot1](plot1.png) 
 
 
-### Plot 2
+### Plot 2 (plot2.R)
 
 ![plot of chunk plot2](plot2.png) 
 
 
-### Plot 3
+### Plot 3 (plot3.R)
 
 ![plot of chunk plot3](plot3.png) 
 
 
-### Plot 4
+### Plot 4 (plot4.R)
 
 ![plot of chunk plot4](plot4.png) 
